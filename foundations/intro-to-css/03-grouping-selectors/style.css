@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.first-name{
+    background-color: black;
+    color: white;
+}
+
+.second-name{
+    background-color: yellow;
+}
+
+.first-name,.second-name{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
